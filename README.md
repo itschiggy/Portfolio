@@ -1,30 +1,30 @@
-# React + TypeScript + Vite
+# Chirag's 3D Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Get ready to dive into a 3D wonderland showcasing my skills and projects! This interactive portfolio, built with the magic of TypeScript ✨, React ⚛️, and Three.js 3️⃣, takes you on a journey unlike any other.
 
-Currently, two official plugins are available:
+<img src='https://media3.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.webp?cid=790b76117m1hn8qvouds2ujzy60jmukonjd5k6akpd8w1ber&ep=v1_gifs_search&rid=giphy.webp&ct=g'
+  width='700' height='200'/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Built with the help of a great tutorial by [JavaScript Mastery!](https://youtu.be/0fYi8SGA20k?feature=shared). This was originally done in JavaScript, and I migrated it to TypeScript.
 
-## Expanding the ESLint configuration
+## 🔋 Features:
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- Navigate through a stunning 3D environment, exploring my work with ease.
+- ️Use your mouse or keyboard to glide through the space, discovering every corner.
+- Responsive design ensures a seamless experience on any device, desktop or mobile.
+- TypeScript brings robustness and maintainability to the code.
+- React powers a performant and dynamic user interface.
+- 3D magic comes alive with the power of Three.js!
 
-- Configure the top-level `parserOptions` property like this:
+## ⚙️ Key Technologies:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- ⌨️ TypeScript
+- ⚛️ React
+- 3️⃣ Three.js
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Get Started:
+
+1. Clone this repo: `git clone https://github.com/your-username/3d-developer-portfolio.git`
+2. Install dependencies: `npm install`
+3. Start the magic: `npm start`
+4. Open http://localhost:5173 in your browser and explore!
