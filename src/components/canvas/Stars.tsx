@@ -1,6 +1,7 @@
 import {useState, useRef, Suspense} from "react";
 import {Canvas, useFrame} from "@react-three/fiber";
 import {Points, PointMaterial, Preload} from "@react-three/drei";
+// @ts-expect-error ts-migrate(7016) FIXME: Could not find a declaration file for module 'maath...
 import * as random from "maath/random/dist/maath-random.esm";
 import * as THREE from 'three';
 
